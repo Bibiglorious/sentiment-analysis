@@ -25,11 +25,11 @@ Have you ever wondered how restaurant owners instantly know what customers love 
 To access this you can click on the repository in my profile
 
 You would ensure that you have all the Pythons library, you can do that by running:
-pip install nltk scikit-learn numpy
-xml.etree.ElementTree
-nltk.tokenize
-sklearn.feature_extraction.text.TfidfVectorizer
-sklearn.linear_model.LogisticRegression
+pip install nltk scikit-learn numpy,
+xml.etree.ElementTree,
+nltk.tokenize,
+sklearn.feature_extraction.text.TfidfVectorizer,
+sklearn.linear_model.LogisticRegression,
 
 Now that you have all the necessary libraries, you would want to use your data of choice for the sentiment analysis. Then you create a function to pass the XML data, 
 

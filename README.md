@@ -5,6 +5,8 @@ Have you ever wondered how restaurant owners instantly know what customers love 
 
 ![image](https://github.com/user-attachments/assets/e0960c9d-a330-46ca-8a0f-c3cc925c5f19)
 
+
+
 # SET UP
 
 To access this you can click on the repository in my profile
@@ -18,6 +20,8 @@ sklearn.linear_model.LogisticRegression
 
 Now that you have all the necessary libraries, you would want to use your data of choice for the sentiment analysis. Then you create a function to pass the XML data, 
 
+
+
 <img width="1205" alt="Screenshot 2025-02-24 at 02 27 36" src="https://github.com/user-attachments/assets/0c144576-e4f2-43f2-bc6e-ff8fb5f12e3c" />
 
 
@@ -27,7 +31,11 @@ Then preprocess the training data. Go ahead to create a function to predict pola
 
 <img width="984" alt="Screenshot 2025-02-22 at 16 50 35" src="https://github.com/user-attachments/assets/eb4550e5-fb32-43e5-bd44-e277af671a6b" />
 
+
+
 <img width="1007" alt="Screenshot 2025-02-22 at 16 53 31" src="https://github.com/user-attachments/assets/230c0a2c-80dc-47ac-b81c-741a47ef9ffc" />
+
+
 
 <img width="994" alt="Screenshot 2025-02-22 at 16 52 20" src="https://github.com/user-attachments/assets/e92733a9-2519-4fdd-9783-55ef0abf5a34" />
 

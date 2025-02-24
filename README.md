@@ -11,6 +11,15 @@ Have you ever wondered how restaurant owners instantly know what customers love 
 
 
 
+
+
+
+
+
+
+
+
+
 # SET UP
 
 To access this you can click on the repository in my profile
@@ -26,14 +35,34 @@ Now that you have all the necessary libraries, you would want to use your data o
 
 
 
+
+
+
+
 <img width="1205" alt="Screenshot 2025-02-24 at 02 27 36" src="https://github.com/user-attachments/assets/0c144576-e4f2-43f2-bc6e-ff8fb5f12e3c" />
+
+
+
+
+
 
 
 
 Then preprocess the training data. Go ahead to create a function to predict polarity for a new review with a confidence threshold. you could also create a function to get the emoji and color based on polarity. finally, the tip of the iceberg is where you showcase a GUI creation. This depicts the label for the input field, Creates a text box for inputting reviews, Creates a button to predict the polarity, and Creates a label to display the predicted polarity and emoji.
 
 
+
+
+
+
+
 <img width="984" alt="Screenshot 2025-02-22 at 16 50 35" src="https://github.com/user-attachments/assets/eb4550e5-fb32-43e5-bd44-e277af671a6b" />
+
+
+
+
+
+
 
 
 
@@ -41,7 +70,22 @@ Then preprocess the training data. Go ahead to create a function to predict pola
 
 
 
+
+
+
+
+
+
+
 <img width="994" alt="Screenshot 2025-02-22 at 16 52 20" src="https://github.com/user-attachments/assets/e92733a9-2519-4fdd-9783-55ef0abf5a34" />
+
+
+
+
+
+
+
+
 
 
 I’m excited to rework this project, uncover more insights, and find better ways to represent the data. I love taking on challenges. Have fun!
